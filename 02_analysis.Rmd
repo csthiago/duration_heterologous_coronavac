@@ -367,13 +367,7 @@ tnd_cv %>%
       "CV_v3_31:60_BNT162b2",
       "CV_v3_61:90_BNT162b2",
       "CV_v3_91:120_BNT162b2",
-      "CV_v3_121_BNT162b2",
-      "CV_v3_0:13_CV",
-      "CV_v3_14:30_CV",
-      "CV_v3_31:60_CV",
-      "CV_v3_61:90_CV",
-      "CV_v3_91:120_CV",
-      "CV_v3_121_CV"
+      "CV_v3_121_BNT162b2"
   )) %>%
   tbl_strata(
     strata = age_group,
@@ -418,13 +412,7 @@ tnd_cv %>%
       "CV_v3_31:60_BNT162b2",
       "CV_v3_61:90_BNT162b2",
       "CV_v3_91:120_BNT162b2",
-      "CV_v3_121_BNT162b2",
-      "CV_v3_0:13_CV",
-      "CV_v3_14:30_CV",
-      "CV_v3_31:60_CV",
-      "CV_v3_61:90_CV",
-      "CV_v3_91:120_CV",
-      "CV_v3_121_CV"
+      "CV_v3_121_BNT162b2"
   )) %>%
  tbl_summary(
         by = outcome_confirmado,
